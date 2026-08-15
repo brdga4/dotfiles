@@ -1,0 +1,6 @@
+/* Global editor & workbench font override */
+.monaco-workbench,
+.monaco-editor,
+.monaco-editor .inputarea {
+  font-family: 'Geist Mono', 'JetBrains Mono', 'Fira Code', monospace !important;
+}
